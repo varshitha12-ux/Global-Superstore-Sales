@@ -210,9 +210,9 @@ Global-Superstore-Sales-Dashboard
 
 └── Screenshots
 
-&#x20;   ├── Executive\_Overview.png
+         ├── Executive\_Overview.png
 
-&#x20;   └── Customer\_Product\_Analysis.png
+         └── Customer\_Product\_Analysis.png
 
 ```
 
@@ -230,7 +230,7 @@ Global-Superstore-Sales-Dashboard
 
 
 
-\*(Add Executive\_Overview.png here)\*
+\*![Executive Overview](screenshots/Executive_Overview.png)\*
 
 
 
@@ -240,7 +240,7 @@ Global-Superstore-Sales-Dashboard
 
 
 
-\*(Add Customer\_Product\_Analysis.png here)\*
+\*![Customer & Product Analysis](screenshots/Customer_Product_Analysis.png)\*
 
 
 
