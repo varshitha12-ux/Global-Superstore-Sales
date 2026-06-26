@@ -48,13 +48,17 @@ A retail company operating across multiple regions needs a centralized dashboard
 
 \- Microsoft Power BI
 
-\- Power Query
+\- Power Query(basic)
 
 \- DAX (Data Analysis Expressions)
 
-\- Data Modeling
+\- KPI Development
 
 \- Data Visualization
+
+\- Business Analysis 
+
+\- Dashboard Design
 
 
 
@@ -173,8 +177,6 @@ A retail company operating across multiple regions needs a centralized dashboard
 \- DAX Measure Creation
 
 \- Power Query
-
-\- Data Modeling
 
 \- KPI Design
 
