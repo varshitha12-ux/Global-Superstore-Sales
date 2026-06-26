@@ -232,6 +232,7 @@ Global-Superstore-Sales-Dashboard
 
 
 
+
 \*![Executive Overview](screenshots/Executive_Overview.png)\*
 
 
@@ -239,6 +240,7 @@ Global-Superstore-Sales-Dashboard
 
 
 **Customer \& Product Analysis**
+
 
 
 
